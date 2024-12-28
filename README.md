@@ -170,7 +170,7 @@ Liquidity pools are a cornerstone of the DeFi ecosystem, enabling decentralized 
 - **Website**: https://citadail.ai
 - **X**: https://x.com/Citadailhedge
 - **Telegram**: https://t.me/CitadelHedge
-- **DAOS.fun**: https://www.daos.fun/7NAcHxPyHPATtpTxLF3btuELfdCrRTTuMnEyANsi5YtB
+- **DAO**: https://www.daos.fun/7NAcHxPyHPATtpTxLF3btuELfdCrRTTuMnEyANsi5YtB
 
 ---
 
