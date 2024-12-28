@@ -1,0 +1,23 @@
+Citadail-DAO/
+├── README.md
+├── docs/
+│   ├── overview.md
+│   ├── how_it_works.md
+│   ├── key_features.md
+│   ├── tokenomics.md
+│   ├── roadmap.md
+│   ├── origins.md
+│   ├── governance.md
+│   ├── contributing.md
+│   ├── faq.md
+├── code/
+│   ├── smart_contracts/
+│   │   ├── CitadailToken.sol
+│   │   ├── Governance.sol
+│   ├── AI_Strategies/
+│   │   ├── GriffainIntegration.py
+│   │   ├── SnipeAgentModule.py
+│   ├── tests/
+│       ├── test_CitadailToken.js
+│       ├── test_GriffainIntegration.js
+├── LICENSE
