@@ -1,5 +1,6 @@
 # Citadail Autonomous Hedge Fund DAO
 # Citadail DAO: Autonomous Decentralized AI-Powered Fund on Solana Powered by Griffain.com
+- DAO is live on https://www.daos.fun/7NAcHxPyHPATtpTxLF3btuELfdCrRTTuMnEyANsi5YtB
 
 ## Overview
 CITADAIL is a pioneering investment initiative designed to capitalize on the transformative potential of artificial intelligence (AI). By leveraging the expertise of Griffain, an advanced quantitative analysis platform, CITADAIL identifies, evaluates, and invests in high-growth AI-powered projects. This document outlines the operational framework, strategic goals, and opportunities available to investors.
@@ -162,6 +163,14 @@ Liquidity pools are a cornerstone of the DeFi ecosystem, enabling decentralized 
 - DAO - (Decentralized Autonomous Organization) - an organization governed by rules encoded as smart contracts on a blockchain, eliminating the need for centralized control. DAOs enable participants to collaborate and make decisions collectively, often in a fully transparent and automated manner.
 
 - Hedge Fund - an investment vehicle that pools capital from accredited investors or institutional clients and employs diverse strategies to generate high returns, regardless of market conditions. Hedge funds are known for their flexibility in investment approaches and their ability to take on higher risks in pursuit of above-average returns.
+
+---
+
+## Links
+- **Website**: https://citadail.ai
+- **X**: https://x.com/Citadailhedge
+- **Telegram**: https://t.me/CitadelHedge
+- **DAOS.fun**: https://www.daos.fun/7NAcHxPyHPATtpTxLF3btuELfdCrRTTuMnEyANsi5YtB
 
 ---
 
