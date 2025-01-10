@@ -1,5 +1,10 @@
 # Citadail Autonomous Hedge Fund DAO
 # Citadail DAO: Autonomous Decentralized AI-Powered Fund on Solana Powered by Griffain.com
+
+- www.Citadail.ai
+- X.com/Citadailhedge
+- Telegram: https://t.me/CitadailHedgeFund
+
 - DAO is live on https://www.daos.fun/7NAcHxPyHPATtpTxLF3btuELfdCrRTTuMnEyANsi5YtB
 
 ## Overview
