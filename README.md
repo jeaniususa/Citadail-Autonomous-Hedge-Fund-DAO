@@ -7,6 +7,18 @@
 
 - DAO is live on https://www.daos.fun/7NAcHxPyHPATtpTxLF3btuELfdCrRTTuMnEyANsi5YtB
 
+# Coin Address
+
+- Citadail Address
+- 7h5AzpYTAnh4Gyux8Gqko5Fvx4AYQBZdkzHZ2CsBudvJ
+
+- Citadailhf Address 
+(buy on https://www.daos.fun/7NAcHxPyHPATtpTxLF3btuELfdCrRTTuMnEyANsi5YtB )
+- 7NAcHxPyHPATtpTxLF3btuELfdCrRTTuMnEyANsi5YtB
+
+- Gpool Address
+- 9eLdEUWkDSt81nJwP3H2CY5V9a292Gfdy1FEyv2Js5HU
+
 ## Overview
 CITADAIL is a pioneering investment initiative designed to capitalize on the transformative potential of artificial intelligence (AI). By leveraging the expertise of Griffain, an advanced quantitative analysis platform, CITADAIL identifies, evaluates, and invests in high-growth AI-powered projects. This document outlines the operational framework, strategic goals, and opportunities available to investors.
 
