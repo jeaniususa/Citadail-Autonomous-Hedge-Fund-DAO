@@ -165,7 +165,7 @@ Liquidity pools are a cornerstone of the DeFi ecosystem, enabling decentralized 
 ### Allocations
 - **30%** Large Cap AI
 - **25%** Griffain
-- **25%** OG Citadail token
+- **25%** Citadail token
 - **10%** High Risk AI
 - **10%** Snipe Function of Griffain bot
 
