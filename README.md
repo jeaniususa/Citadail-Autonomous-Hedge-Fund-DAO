@@ -45,7 +45,7 @@ To empower investors by identifying and investing in transformative AI technolog
 ## DAOS.fun & How It Works
 1. **Fundraise:**  
    - Duration: 1 week.  
-   - All participants acquire DAO tokens ($CITADAILHF) at the same price during this phase at 2.5 Million Market cap.  
+   - All participants acquire DAO tokens ($CITADAILHF) at a market cap equal to 420 SOL. 
 
 2. **Trading (Post-Fundraise):**  
    - Investment Phase: Upon successful fundraising, the SOL raised is allocated to various Solana protocols chosen by the creators, guided by Griffain AI’s predictive algorithms.
